@@ -46,6 +46,7 @@ import java.util.Set;
  *
  * @goal process
  * @requiresDependencyResolution runtime
+ * @threadSafe
  */
 public class ProcessMojo extends AbstractMojo {
     /**
